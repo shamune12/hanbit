@@ -37,7 +37,7 @@ public class Calc4 {
 		System.out.println(a + "/" + b + "=" + (a / b) + "..." + (a % b));
 		break;			
 		
-						
+								
 
 		default:System.out.println("연산 기호를 잘못 넣었습니다.");
 			break;

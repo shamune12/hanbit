@@ -15,7 +15,7 @@ public class variable {
 		System.out.println("***회원가입***");
 		
 		System.out.println("아이디 : ");
-		String id = scanner.next();
+		String id = scanner.next();	
 		System.out.println("비밀번호: ");
 		String password = scanner.next();
 		System.out.println("이름 : ");
